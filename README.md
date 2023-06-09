@@ -1,12 +1,12 @@
 <div> 
-   <h1 align="center">Cláudio Henriques</h1> 
+   <h1 align="center">Claúdio Henriques</h1> 
    <h5 align="center">Desenvolvedor de software, focado no desenvolvimento Web e Desktop</h5> 
    <h5 align="center">Desenvolvimento é minha paixão</h5> 
  </div> 
   
    <div align="center"> 
      <a href="https://github.com/claudioafonsohenriques"> 
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manueldembo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
+     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=claudioafonsohenriques&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manueldembo&layout=compact&langs_count=7&theme=dark"/> 
    </div> 
   
