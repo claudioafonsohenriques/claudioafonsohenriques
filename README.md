@@ -1,7 +1,7 @@
 <div> 
-   <h1 align="center">Manuel Dembo!!!</h1> 
-   <h5 align="center">Desenvolvedor de software, focado no desenvolvimento Web</h5> 
-   <h5 align="center">I LOVE CODE💖</h5> 
+   <h1 align="center">Cláudio Henriques</h1> 
+   <h5 align="center">Desenvolvedor de software, focado no desenvolvimento Web e Desktop</h5> 
+   <h5 align="center">Desenvolvimento é minha paixão</h5> 
  </div> 
   
    <div align="center"> 
