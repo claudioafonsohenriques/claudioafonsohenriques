@@ -1,6 +1,6 @@
-<H1 align="center" color="red">Claúdio Henriques</h1>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0050b2&height=100&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
-  
+ <H1 align="center" color="red">Claúdio Henriques</h1> 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0050b2&size=35&center=true&vCenter=true&width=1000&lines=Heeeeey+what's+up!?,+I+am+Claúdio+Afonso+Henriques+😎;And+I+am+17+years+old;I+am+from+Angola+🇦🇴;I+am+a+Software+Developer+👨🏾‍💻;But+I'm+working+with+FrontEnd+e+Desktop+now;Be+welcome+to+my+GitHub+profile!😁)](https://git.io/typing-svg) 
   
  <div align="center">   
