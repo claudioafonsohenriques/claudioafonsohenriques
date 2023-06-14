@@ -34,3 +34,22 @@
  </div> 
   
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0050b2&height=100&section=footer"/>
+
+### OS 
+ [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/claudioafonsohenriques) 
+ [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/claudioafonsohenriques) 
+ [![FreeBSD](https://img.shields.io/badge/FreeBSD-black?style=for-the-badge&logo=FreeBSD)](https://github.com/claudioafonsohenriques) 
+  
+ <details> 
+ <p align="center"> 
+   <a href="https://github.com/claudioafonsohenriques"> 
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=claudioafonsohenriques&theme=transparent" /> 
+   </a> 
+   <a href="https://github.com/claudioafonsohenriques"> 
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=claudioafonsohenriques&hide_border=true&card_width=338&theme=transparent" /> 
+   </a> 
+   <a href="https://github.com/claudioafonsohenriques"> 
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=claudioafonsohenriques&theme=transparent" /> 
+   </a> 
+   <a href="https://github.com/claudioafonsohenriques"> 
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudioafonsohenriques&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
