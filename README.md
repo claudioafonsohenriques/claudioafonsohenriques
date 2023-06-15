@@ -1,8 +1,4 @@
  <H1 align="center" color="red">Claúdio Henriques</h1> 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0050b2&height=100&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
-[![FreeBSD](https://img.shields.io/badge/FreeBSD-black?style=for-the-badge&logo=FreeBSD)](https://github.com/claudioafonsohenriques) 
-  
- <details> 
  <p align="center"> 
    <a href="https://github.com/claudioafonsohenriques"> 
      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=claudioafonsohenriques&theme=transparent" /> 
