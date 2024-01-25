@@ -1,10 +1,10 @@
- <H1 align="center" color="red">Claúdio Henriques</h1> 
+<H1 align="center" color="red">Claúdio Henriques</h1> 
  <p align="center"> 
    <a href="https://github.com/claudioafonsohenriques"> 
      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=claudioafonsohenriques&theme=transparent" /> 
    </a>
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0050b2&size=35&center=true&vCenter=true&width=1000&lines=Heeeeey+what's+up!?,+I+am+Claúdio+Afonso+Henriques+😎;And+I+am+17+years+old;I+am+from+Angola+🇦🇴;I+am+a+Software+Developer+👨🏾‍💻;But+I'm+working+with+FrontEnd+e+Desktop+now;Be+welcome+to+my+GitHub+profile!😁)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0050b2&size=35&center=true&vCenter=true&width=1000&lines=Heeeeey+what's+up!?,+I+am+Claúdio+Afonso+Henriques+😎;And+I+am+17+years+old;I+am+from+Angola+🇦🇴;I+am+a+Software+Developer+👨🏾‍💻;But+I'm+working+with+FrontEnd+Developer;Be+welcome+to+my+GitHub+profile!😁)](https://git.io/typing-svg)
   
  <div align="center">   
    <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=claudioafonsohenriques&show_icons=true&count_private=true&hide_border=true&title_color=0050b2&icon_color=0050b2&text_color=c9d1d9&bg_color=0d1117" alt="Claúdio Henriques" />  
