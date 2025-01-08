@@ -1,10 +1,10 @@
-<H1 align="center" color="red">Claúdio Henriques</h1> 
+<H1 align="center" color="red">Claúdio A. Henriques</h1> 
  <p align="center"> 
    <a href="https://github.com/claudioafonsohenriques"> 
      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=claudioafonsohenriques&theme=transparent" /> 
    </a>
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0050b2&size=35&center=true&vCenter=true&width=1000&lines=Heeeeey+what's+up!?,+I+am+Claúdio+Afonso+Henriques+😎;And+I+am+18+years+old;I+am+from+Angola+🇦🇴;I+am+a+Software+Developer+👨🏾‍💻;But+I'm+working+with+FrontEnd+Developer;Be+welcome+to+my+GitHub+profile!😁)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0050b2&size=35&center=true&vCenter=true&width=1000&lines=Heeeeey+what's+up!?,+I+am+Claúdio+Afonso+Henriques+😎;And+I+am+19+years+old;I+am+from+Angola+🇦🇴;I+am+a+Software+Developer+👨🏾‍💻;But+I'm+working+with+FrontEnd+Developer+at+moment;Be+welcome+to+my+GitHub+profile!😁)](https://git.io/typing-svg)
   
  <div align="center">   
    <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=claudioafonsohenriques&show_icons=true&count_private=true&hide_border=true&title_color=0050b2&icon_color=0050b2&text_color=c9d1d9&bg_color=0d1117" alt="Claúdio Henriques" />  
@@ -18,7 +18,7 @@
  <div align="center" style="display: inline_block"><br> 
    <img align="center" alt="Claúdio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
    <img align="center" alt="Claúdio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
-   <img align="center" alt="Claudio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript.svg"> 
+   <img align="center" alt="Claudio-Js" height="30" width="40" src="https://https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
  <img align="center" alt="Claudio-py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg"> 
    <img align="center" alt="Claudio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
    <img align="center" alt="Claudio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
