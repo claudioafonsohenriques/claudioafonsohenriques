@@ -19,7 +19,6 @@
    <img align="center" alt="Claúdio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
    <img align="center" alt="Claúdio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
    <img align="center" alt="Claudio-Js" height="30" width="40" src="https://https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript.svg"> 
- <img align="center" alt="Claudio-py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg"> 
    <img align="center" alt="Claudio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
    <img align="center" alt="Claudio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
    <img align="center" alt="Claudio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"> 
