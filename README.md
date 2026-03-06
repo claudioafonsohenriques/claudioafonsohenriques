@@ -1,43 +1,159 @@
-<H1 align="center" color="red">Claúdio A. Henriques</h1> 
- <p align="center"> 
-   <a href="https://github.com/claudioafonsohenriques"> 
-     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=claudioafonsohenriques&theme=transparent" /> 
-   </a>
+<h1 align="center">Cláudio Afonso Henriques</h1>
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0050b2&size=35&center=true&vCenter=true&width=1000&lines=Heeeeey+what's+up!?,+I+am+Claúdio+Afonso+Henriques+😎;And+I+am+20+years+old;I+am+from+Angola+🇦🇴;I+am+a+Software+Developer+👨🏾‍💻;But+I'm+working+with+FrontEnd+Developer+at+moment;Be+welcome+to+my+GitHub+profile!😁)](https://git.io/typing-svg)
-  
- <div align="center">   
-   <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=claudioafonsohenriques&show_icons=true&count_private=true&hide_border=true&title_color=0050b2&icon_color=0050b2&text_color=c9d1d9&bg_color=0d1117" alt="Claúdio Henriques" />  
-   <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudioafonsohenriques&layout=compact&langs_count=7&hide_border=true&title_color=0050b2&text_color=ffffff&bg_color=0d1117" /> 
- </div> 
-  
- <div align="center"> 
-   <img align="center" width="500px" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=claudioafonsohenriques&theme=dark&background=0d1117&hide_border=false&border=0050b2"/> 
- <div/> 
-  
- <div align="center" style="display: inline_block"><br> 
-   <img align="center" alt="Claúdio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
-   <img align="center" alt="Claúdio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
-   <img align="center" alt="Claudio-Js" height="30" width="40" src="https://https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript.svg"> 
-   <img align="center" alt="Claudio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
-   <img align="center" alt="Claudio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
-   <img align="center" alt="Claudio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"> 
-   <img align="center" alt="Claudio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> 
- </div> 
-  
- <div>  
-  
-   ## 
-   
- <div  align="center">  
-   <a href="https://www.linkedin.com/in/Claúdio Afonso Henriques/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-   <a href = "mailto: claudioafonsohenriques8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>   
- </div> 
-  
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0050b2&height=100&section=footer"/>
+<p align="center">
+Software Engineer • Open Source Enthusiast • Technology Builder
+</p>
 
-### OS 
- [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/claudioafonsohenriques) 
- [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/claudioafonsohenriques) 
- 
+<p align="center">
+Angola 🇦🇴 • Developer • Building impactful technology
+</p>
+
+---
+
+# About Me
+
+Hello 👋
+
+My name is **Cláudio Afonso Henriques**, I am a developer from **Angola** passionate about building scalable systems, digital platforms and innovative technology products.
+
+I work with **modern web technologies, mobile development and system architecture**.
+
+I enjoy solving complex problems and creating solutions that generate **real impact in society**.
+
+---
+
+# GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=claudioafonsohenriques&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudioafonsohenriques&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=claudioafonsohenriques&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# Tech Stack
+
+### Languages
+
+| Technology | Skill |
+|------------|------|
+| JavaScript | ████████████████████ 90% |
+| TypeScript | ██████████████████ 85% |
+| Python | ████████████████ 80% |
+| C | ████████████ 60% |
+| SQL | █████████████ 70% |
+
+---
+
+### Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+
+</p>
+
+| Framework | Skill |
+|----------|------|
+| React | ███████████████████ 90% |
+| Next.js | ████████████████ 80% |
+| Tailwind | ██████████████████ 85% |
+
+---
+
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
+
+</p>
+
+| Technology | Skill |
+|-----------|------|
+| Node.js | █████████████████ 85% |
+| Express | ███████████████ 75% |
+| Firebase | ██████████████ 70% |
+
+---
+
+### Mobile Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,expo" />
+
+</p>
+
+| Technology | Skill |
+|-----------|------|
+| React Native | ███████████████ 75% |
+| Expo | ████████████████ 80% |
+
+---
+
+# Tools & Technologies
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,docker" />
+
+</p>
+
+- Git
+- GitHub
+- VS Code
+- Figma
+- Linux
+- Docker
+
+---
+
+# Operating Systems
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=linux,windows" />
+
+</p>
+
+---
+
+# Contact
+
+<p align="center">
+
+<a href="https://github.com/claudioafonsohenriques">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/claudioafonsohenriques">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:claudioafonsohenriques8@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# Phone
+
+📞 +244 935 358 417
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
+
+</p>
