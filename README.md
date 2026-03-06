@@ -1,3 +1,76 @@
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Cláudio%20Afonso%20Henriques&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+
+</p>
+
+<p align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&color=00C2FF&center=true&vCenter=true&width=900&lines=Software+Engineer;Technology+Builder;Open+Source+Contributor;Creating+Impact+Through+Code;Angola+🇦🇴)](https://git.io/typing-svg)
+
+</p>
+
+---
+
+# About Me
+
+Hello 👋
+
+My name is **Cláudio Afonso Henriques**, a passionate **Software Engineer from Angola 🇦🇴**.
+
+I focus on building **scalable platforms, mobile applications and modern digital systems**.
+
+I am particularly interested in:
+
+- System Architecture
+- Mobile Development
+- Web Platforms
+- Technology Entrepreneurship
+- Digital Infrastructure for Africa
+
+I believe **technology can transform economies and societies**, and I dedicate my work to building systems that create real-world impact.
+
+---
+
+# Visitor Counter
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=claudioafonsohenriques&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=claudioafonsohenriques&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudioafonsohenriques&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=claudioafonsohenriques&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=claudioafonsohenriques&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+
 # Tech Stack
 
 ## Languages
