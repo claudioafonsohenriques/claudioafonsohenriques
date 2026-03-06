@@ -70,228 +70,140 @@ I believe **technology can transform economies and societies**, and I dedicate m
 
 ---
 
-
 # Tech Stack
 
-## Languages
+### Languages
 
-<table>
-<tr>
-<td align="center" width="120">
+<p>
 
-<img src="https://skillicons.dev/icons?i=js" width="50"/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,java"/>
 
-JavaScript
+</p>
 
-</td>
-
-<td align="center" width="120">
-
-<img src="https://skillicons.dev/icons?i=ts" width="50"/>
-
-TypeScript
-
-</td>
-
-<td align="center" width="120">
-
-<img src="https://skillicons.dev/icons?i=python" width="50"/>
-
-Python
-
-</td>
-
-<td align="center" width="120">
-
-<img src="https://skillicons.dev/icons?i=c" width="50"/>
-
-C
-
-</td>
-
-<td align="center" width="120">
-
-<img src="https://skillicons.dev/icons?i=java" width="50"/>
-
-Java
-
-</td>
-
-</tr>
-</table>
+| Language | Mastery |
+|---------|--------|
+| JavaScript | ████████████████████ 90% |
+| TypeScript | ██████████████████ 85% |
+| Python | ████████████████ 80% |
+| C | ████████████ 65% |
+| SQL | ██████████████ 75% |
 
 ---
 
-## Frontend
+# Frontend Development
 
-<table>
-<tr>
+<p>
 
-<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind"/>
 
-<img src="https://skillicons.dev/icons?i=html" width="50"/>
+</p>
 
-HTML5
-
-</td>
-
-<td align="center" width="120">
-
-<img src="https://skillicons.dev/icons?i=css" width="50"/>
-
-CSS3
-
-</td>
-
-<td align="center" width="120">
-
-<img src="https://skillicons.dev/icons?i=react" width="50"/>
-
-React
-
-</td>
-
-<td align="center" width="120">
-
-<img src="https://skillicons.dev/icons?i=nextjs" width="50"/>
-
-Next.js
-
-</td>
-
-<td align="center" width="120">
-
-<img src="https://skillicons.dev/icons?i=tailwind" width="50"/>
-
-Tailwind
-
-</td>
-
-</tr>
-</table>
+| Technology | Level |
+|-----------|------|
+| React | ███████████████████ 90% |
+| Next.js | ████████████████ 80% |
+| Tailwind | █████████████████ 85% |
 
 ---
 
-## Backend
+# Backend Development
 
-<table>
-<tr>
+<p>
 
-<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb"/>
 
-<img src="https://skillicons.dev/icons?i=nodejs" width="50"/>
+</p>
 
-Node.js
-
-</td>
-
-<td align="center" width="120">
-
-<img src="https://skillicons.dev/icons?i=express" width="50"/>
-
-Express
-
-</td>
-
-<td align="center" width="120">
-
-<img src="https://skillicons.dev/icons?i=firebase" width="50"/>
-
-Firebase
-
-</td>
-
-<td align="center" width="120">
-
-<img src="https://skillicons.dev/icons?i=mongodb" width="50"/>
-
-MongoDB
-
-</td>
-
-</tr>
-</table>
+| Technology | Level |
+|-----------|------|
+| Node.js | █████████████████ 85% |
+| Express | ███████████████ 75% |
+| Firebase | ██████████████ 70% |
+| MongoDB | ██████████████ 70% |
 
 ---
 
-## Mobile Development
+# Mobile Development
 
-<table>
-<tr>
+<p>
 
-<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=react,expo"/>
 
-<img src="https://skillicons.dev/icons?i=react" width="50"/>
+</p>
 
-React Native
-
-</td>
-
-<td align="center" width="120">
-
-<img src="https://skillicons.dev/icons?i=expo" width="50"/>
-
-Expo
-
-</td>
-
-</tr>
-</table>
+| Technology | Level |
+|-----------|------|
+| React Native | ████████████████ 80% |
+| Expo | ███████████████ 75% |
 
 ---
 
-## Tools & Dev Environment
+# Tools & Workflow
 
-<table>
-<tr>
+<p>
 
-<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma,docker"/>
 
-<img src="https://skillicons.dev/icons?i=git" width="50"/>
+</p>
 
-Git
+- Git
+- GitHub
+- VS Code
+- Linux
+- Figma
+- Docker
 
-</td>
+---
 
-<td align="center" width="120">
+# Operating Systems
 
-<img src="https://skillicons.dev/icons?i=github" width="50"/>
+<p>
 
-GitHub
+<img src="https://skillicons.dev/icons?i=linux,windows"/>
 
-</td>
+</p>
 
-<td align="center" width="120">
+---
 
-<img src="https://skillicons.dev/icons?i=vscode" width="50"/>
+# Connect With Me
 
-VS Code
+<p align="center">
 
-</td>
+<a href="https://github.com/claudioafonsohenriques">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+</a>
 
-<td align="center" width="120">
+<a href="https://www.linkedin.com/in/claudioafonsohenriques">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-<img src="https://skillicons.dev/icons?i=figma" width="50"/>
+<a href="mailto:claudioafonsohenriques8@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-Figma
+</p>
 
-</td>
+---
 
-<td align="center" width="120">
+# Contact
 
-<img src="https://skillicons.dev/icons?i=docker" width="50"/>
+📞 **+244 935 358 417**
 
-Docker
+---
 
-</td>
+# Contribution Snake 🐍
 
-<td align="center" width="120">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=linux" width="50"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 
-Linux
+</p>
 
-</td>
+---
 
-</tr>
-</table>
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=150&section=footer"/>
+
+</p>
+
