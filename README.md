@@ -11,6 +11,13 @@
 </p>
 
 ---
+<p align="center">
+
+<img src="https://github.com/claudioafonsohenriques.png" width="180" style="border-radius:50%"/>
+
+</p>
+
+---
 
 # About Me
 
