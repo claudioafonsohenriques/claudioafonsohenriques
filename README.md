@@ -16,7 +16,7 @@
 
 Hello 👋
 
-My name is **Cláudio Afonso Henriques**, a passionate **Software Engineer from Angola 🇦🇴**.
+My name is **Claúdio Afonso Henriques**, a passionate **Software Engineer from Angola 🇦🇴**.
 
 I focus on building **scalable platforms, mobile applications and modern digital systems**.
 
