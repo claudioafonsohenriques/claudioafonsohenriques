@@ -30,7 +30,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 Hello! I'm **Cláudio Afonso Henriques**, a software developer from **Angola 🇦🇴**, with a background in Informatics and a passion for building technology that solves real problems.
 
@@ -49,7 +49,7 @@ Beyond writing code, I value understanding the problem, designing an appropriate
 
 ---
 
-## 🚀 Featured Project
+## Featured Project
 
 ### AgriLink — Digital Agricultural Commerce
 
@@ -78,7 +78,7 @@ This project reflects my interest in building technology that goes beyond code t
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Programming Languages
 
@@ -123,7 +123,7 @@ This project reflects my interest in building technology that goes beyond code t
 
 ---
 
-## 🎯 What I'm Working Toward
+## What I'm Working Toward
 
 - Building reliable web and mobile applications from end to end.
 - Improving application performance, maintainability, and user experience.
@@ -135,7 +135,7 @@ I believe strong software engineering combines technical execution, thoughtful p
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=claudioafonsohenriques&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
@@ -146,13 +146,13 @@ I believe strong software engineering combines technical execution, thoughtful p
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=claudioafonsohenriques&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=claudioafonsohenriques&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" />
 </p>
 
-## 👀 Profile Visitors
+## Profile Visitors
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=claudioafonsohenriques&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile views counter" />
@@ -160,7 +160,7 @@ I believe strong software engineering combines technical execution, thoughtful p
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm interested in connecting with developers, technology professionals, entrepreneurs, and organisations working on meaningful digital solutions.
 
